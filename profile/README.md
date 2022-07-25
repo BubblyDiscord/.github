@@ -1,13 +1,13 @@
-# About Radon! 
-Radon is a general purpose Discord bot with many 
+# About Bubbly! 
+Bubbly is a general purpose Discord bot with many 
 features (Moderation, Fun, Music, and much more!).
 
 ## Source code
-Radon source is currently private and only available to 
+Bubbly source is currently private and only available to 
 developers.
 
 ## Premium
-We do offer a premium version of Radon but it is currently 
+We do offer a premium version of Bubbly but it is currently 
 not out yet. It will also not have music in it due to legal issues!
 
 ## Contribute
